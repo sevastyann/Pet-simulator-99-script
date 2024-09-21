@@ -1,4 +1,4 @@
-# Pet Simulator 99 Script 2024 SAD EGG UPDATE [PS99]
+# Pet Simulator 99 Script 2024 ELEMENTAL WORLD UPDATE [PS99]
 # SCRIPT:
 
 **script: loadstring(game:HttpGet('https://raw.githubusercontent.com/sevastyann/script/main/.lua'))()**
